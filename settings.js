@@ -36,7 +36,7 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -61,9 +61,9 @@ global.socialm = "GitHub: Nero" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['7710q8371']
+global.owner = ['771018371']
 global.ownertag = '771018371' //ur tag number
-global.botname = '✫ ✫ ✫𝙳𝙰𝚁𝙺 THUSHAN ✫ ✫' //ur bot name
+global.botname = '✫ ✫ ✫🔥༺𝐓.𝐒♡𝐓𝐇𝐔𝐒𝐇𝐀𝐍♡BOT♡༻🔥 ✫ ✫' //ur bot name
 global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
 global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //script link
